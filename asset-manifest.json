@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appreact/static/css/main.584f321a.chunk.css",
+    "main.js": "/appreact/static/js/main.ddb4d14a.chunk.js",
+    "main.js.map": "/appreact/static/js/main.ddb4d14a.chunk.js.map",
+    "runtime~main.js": "/appreact/static/js/runtime~main.ac1b2f02.js",
+    "runtime~main.js.map": "/appreact/static/js/runtime~main.ac1b2f02.js.map",
+    "static/js/2.b41502e9.chunk.js": "/appreact/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/appreact/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/appreact/index.html",
+    "precache-manifest.f9391c1542d6e3b17d3ecb5beaf54435.js": "/appreact/precache-manifest.f9391c1542d6e3b17d3ecb5beaf54435.js",
+    "service-worker.js": "/appreact/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/appreact/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/appreact/static/media/logo.5d5d9eef.svg"
+  }
+}
